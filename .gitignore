@@ -31,3 +31,7 @@ checkpoints/
 runs/
 wandb/
 *.log
+
+# Fine-tuned model artifacts
+**/output/
+*.safetensors
