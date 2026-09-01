@@ -34,4 +34,5 @@ wandb/
 
 # Fine-tuned model artifacts
 **/output/
+**/output_*/
 *.safetensors
